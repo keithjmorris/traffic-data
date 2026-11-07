@@ -702,5 +702,32 @@
   "speeders": 884,
   "extremeSpeeders": 52,
   "fastest": "70mph"
+},
+  {
+  "id": "27",
+  "limit": 20,
+  "year": "2026",
+  "placement": "Church Walk, opposite church, inwards",
+  "month": "12th October to 4th November",
+  "totalTraffic": 20094,
+  "percentageInLimit": 46.19,
+  "belowTwenty": 46.19,
+  "twentyToThirty": 52.46,
+  "thirtyToThirtyFive": 1.25,
+  "thirtyFiveToForty": 0.09,
+  "fortyToFortyFive": 0.0,
+  "fortyFiveToFifty": 0.0,
+  "fiftyToFiftyFive": 0.0,
+  "fiftyFiveToSixty": 0.0,
+  "sixtyToSixtyFive": 0.0,
+  "sixtyFiveToSeventy": 0.0,
+  "overSeventy": 0.0,
+  "twentyMph": "20mph",
+  "thirtyMph": "30mph",
+  "longitude": 0.7223814,
+  "speeders": 16758,
+  "speeders": 2310,
+  "extremeSpeeders": 1,
+  "fastest": "40mph"
 }
 ]
